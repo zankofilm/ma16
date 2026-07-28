@@ -1,0 +1,4 @@
+cryptography>=42.0.0
+arabic_reshaper>=3.0.0
+python-bidi>=0.4.2
+kivy==2.3.1
